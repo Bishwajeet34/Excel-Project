@@ -29,7 +29,7 @@ This project contains data analysis of Vrinda Store using Microsoft Excel.
 
 ## 🙏 Inspired By
 
-This project was completed with the help of **Rishabh Mishra Sir**, who teaches Excel and data analytics in a very beginner‑friendly way.
+This project was completed with the help of **Rishabh Mishra Bhaiya**, who teaches Excel and data analytics in a very beginner‑friendly way.
 
 ## 📌 Author
 
